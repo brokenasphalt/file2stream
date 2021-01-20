@@ -26,6 +26,6 @@ An Open Source Telegram RoBot  😍
 start - Check if the Bot is Online!
 help - How to use this Bot?
 upgrade - Upgrade your status
-converttovideo - Convert to Streamable Video
+convert2video - Convert to Streamable Video
 ```
 
