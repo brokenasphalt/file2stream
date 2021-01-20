@@ -1,13 +1,12 @@
 class Translation(object):
-    START_TEXT = """Hello,
-i am Telegram File convert Bot!
+    START_TEXT = """<b>Hello,
+I am Telegram File Convert Bot! Created by this <a href="https://telegram.dog/jikkubarca">Person</a></b>
 
 <code> Using this bot You can convert any Telegram Document to streaming video, With custom thumbnail</code>
    
    ☛ <b> /help for more details......</b>
+    
    
- 
-   Created by this <a href="https://telegram.dog/jikkubarca">Person</a>
    Check my other (cloned) bot  
    ☛ <b>@MirrorAll</b> """
     ABS_TEXT = " Please don't be selfish."
@@ -24,9 +23,9 @@ i am Telegram File convert Bot!
     DOWNLOAD_START = """Analysing File
     please wait...🙇🙇🙇  
     """
-    UPLOAD_START = "Converting & Uploading 📤"
+    UPLOAD_START = "Converting & Uploading to TG📤"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using me. \n Now you can send new File \n\nWanna check my other botz☛ @MirrorAll"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using me. \n Now you can send new File \n\nWanna check my other channel☛ @MirrorAll"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in next 24 hr"
