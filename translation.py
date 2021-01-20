@@ -41,7 +41,7 @@ i am Telegram File convert Bot!
 Telegram ID: <code>{}</code>
 Plan name: <b> free user </b>
 Expires on: Until my Death"""
-    HELP_USER = """I can do: <a href="https://telegram.dog/FileToStreambot">Convert To Streamable video any telegram file</a>
+    HELP_USER = """I can do: <a href="https://telegram.dog/MirrorAll">Convert To Streamable video any telegram file</a>
 
 ☛ send a telegram file
 ☛ Reply that file to   <b> /convert2video </b>
