@@ -7,18 +7,18 @@ i am Telegram File convert Bot!
    ☛ <b> /help for more details......</b>
    
  
-   Created by this <a href="https://telegram.dog/oo7robot">Person</a>
+   Created by this <a href="https://telegram.dog/jikkubarca">Person</a>
    Check my other (cloned) bot  
-   ☛ <b>@MyTestBotZ</b> """
+   ☛ <b>@MirrorAll</b> """
     ABS_TEXT = " Please don't be selfish."
     BANNED_USER_TEXT = "you are banned"
     UPGRADE_TEXT = """○ My Name : <code>Converter bot</code>
-○ Creator : <a href="https://telegram.dog/oo7robot">This Person</a>
+○ Creator : <a href="https://telegram.dog/jikkubarca">This Person</a>
 ○ Credits : <code>Everyone in this journey</code>
 ○ Language : <code>Python3</code>
 ○ Library : <a href="https://docs.pyrogram.org/">Pyrogram asyncio 0.16.1</a>
-○ Cloned From : <b>X_ROW</b> Source code
-○ Source Code : ☛ <a href="https://t.me/x_r0w/5">click here</a>
+○ Cloned From : <b>GitHub</b> Source code
+○ Source Code : ☛ <a href="https://github.com">click here</a>
 ○ Server : <code>Heroku</code>
 ○ Build Status : <code>beta v1</code>"""
     DOWNLOAD_START = """Analysing File
