@@ -23,7 +23,6 @@ i am Telegram File convert Bot!
 ○ Build Status : <code>beta v1</code>"""
     DOWNLOAD_START = """Analysing File
     please wait...🙇🙇🙇  
-    
     """
     UPLOAD_START = "Converting & Uploading 📤"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
