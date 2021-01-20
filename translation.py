@@ -1,14 +1,13 @@
 class Translation(object):
     START_TEXT = """<b>Hello,
-I am Telegram File Convert Bot! Created by this <a href="https://telegram.dog/jikkubarca">Person</a></b>
+I am Telegram File Convert Bot! Created by <b>@JikkuBarca</b></b>
 
 <code> Using this bot You can convert any Telegram Document to streaming video, With custom thumbnail</code>
    
    ☛ <b> /help for more details......</b>
-    
    
-   Check my other (cloned) bot  
-   ☛ <b>@MirrorAll</b> """
+   Check my other (cloned) channel  
+   ☛ <b>@MirrorAll</b>, <b>@Movies_Stream</b> """
     ABS_TEXT = " Please don't be selfish."
     BANNED_USER_TEXT = "you are banned"
     UPGRADE_TEXT = """○ My Name : <code>Converter bot</code>
@@ -21,9 +20,8 @@ I am Telegram File Convert Bot! Created by this <a href="https://telegram.dog/ji
 ○ Server : <code>Heroku</code>
 ○ Build Status : <code>beta v1</code>"""
     DOWNLOAD_START = """Analysing File
-    please wait...🙇🙇🙇  
-    """
-    UPLOAD_START = "Converting & Uploading to TG📤"
+    please wait...🙇🙇🙇"""
+    UPLOAD_START = "<b>Converting & Uploading to TG📤</b>"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using me. \n Now you can send new File \n\nWanna check my other channel☛ @MirrorAll"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nUploaded in {} seconds."
@@ -37,15 +35,13 @@ I am Telegram File Convert Bot! Created by this <a href="https://telegram.dog/ji
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: <b> free user </b>
+Plan name: <b> Free user </b>
 Expires on: Until my Death"""
-    HELP_USER = """I can do: <a href="https://telegram.dog/MirrorAll">Convert To Streamable video any telegram file</a>
+    HELP_USER = """I can do: <a href="https://telegram.dog/Movies_Stream">Convert To Streamable video any telegram file</a>
 
 ☛ send a telegram file
-☛ Reply that file to   <b> /convert2video </b>
-
+☛ Reply that file to <b> /convert2video </b>
     wait for bot Respond............🙇🙇🙇
-
 """
 
-    REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
+    REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram <b>media/video</b> to convert"
