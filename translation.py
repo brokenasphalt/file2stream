@@ -1,15 +1,15 @@
 class Translation(object):
     START_TEXT = """<b>Hello,
-I am Telegram File Convert Bot! Created by <b>@JikkuBarca</b></b>
+I am Telegram File Convert Bot! Created by <b>@brokenasphalt</b></b>
 <code> Using this bot You can convert any Telegram Document to streaming video, With custom thumbnail</code>
       ☛ <b> /help for more details......</b>
-      Check my other (cloned) channels 
-   ☛ <b>@MirrorAll</b>, <b>@Movies_Stream</b> """
+       
+   ☛ <b>@AFTER_WE_COLLIDED_FILM</b>, <b>@Stream_zone</b> """
     
     ABS_TEXT = " Please don't be selfish."
     BANNED_USER_TEXT = "you are banned"
     UPGRADE_TEXT = """○ My Name : <code>Converter bot</code>
-○ Creator : <a href="https://telegram.dog/jikkubarca">This Person</a>
+○ Creator : <a href="https://telegram.dog/brokenasphalt">This Person</a>
 ○ Credits : <code>Everyone in this journey</code>
 ○ Language : <code>Python3</code>
 ○ Library : <a href="https://docs.pyrogram.org/">Pyrogram asyncio 0.16.1</a>
@@ -17,11 +17,10 @@ I am Telegram File Convert Bot! Created by <b>@JikkuBarca</b></b>
 ○ Source Code : ☛ <a href="https://github.com">click here</a>
 ○ Server : <code>Heroku</code>
 ○ Build Status : <code>beta v1</code>"""
-    DOWNLOAD_START = """Analysing File
-    please wait...🙇🙇🙇"""
-    UPLOAD_START = "<b>Converting & Uploading to TG📤</b>"
+    DOWNLOAD_START = """STARTING TO DOWNLOAD 🤘🤘"""
+    UPLOAD_START = "<b> UPLOADING TO TG 💣💣</b>"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using me. \n Now you can send new File \n\nWanna check my other channel☛ @MirrorAll"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using me. \n Now you can send new File \n\nWanna check my other channel☛ @STREAM_ZONE"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in next 24 hr"
@@ -39,7 +38,7 @@ Expires on: Until my Death"""
 
 ☛ send a telegram file
 ☛ Reply that file to <b> /convert2video </b>
-    wait for bot Respond............🙇🙇🙇
+    wait for bot Respond...💥💥💥
 """
 
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram <b>media/video</b> to convert"
