@@ -27,17 +27,17 @@ I am Telegram File Convert Bot! Created by <b>@brokenasphalt</b></b>
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = "Converted by @FilmClubChannel"
+    CUSTOM_CAPTION_UL_FILE = "⚙️UPLOADED :@STREAM_ZONE"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
 Plan name: <b> Free user </b>
 Expires on: Until my Death"""
-    HELP_USER = """I can do: <a href="https://telegram.dog/Movies_Stream">Convert To Streamable video any telegram file</a>
+    HELP_USER = """I can do: <a href="https://telegram.dog/stream_zone">Convert To Streamable video any telegram file</a>
 
 ☛ send a telegram file
-☛ Reply that file to <b> /convert2video </b>
+☛ Reply that file to <b> /c </b>
     wait for bot Respond...💥💥💥
 """
 
