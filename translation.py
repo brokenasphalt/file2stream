@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """<b>Hello,
-I am Telegram File Convert Bot! Created by <b>@brokenasphalt</b></b>
+I am Telegram File Convert Bot! Created by <b> BROKEN ASPHALT</b></b>
 <code> Using this bot You can convert any Telegram Document to streaming video, With custom thumbnail</code>
       ☛ <b> /help for more details......</b>
        
@@ -37,8 +37,8 @@ Expires on: Until my Death"""
     HELP_USER = """I can do: <a href="https://telegram.dog/stream_zone">Convert To Streamable video any telegram file</a>
 
 ☛ send a telegram file
-☛ Reply that file to <b> /c </b>
-    wait for bot Respond...💥💥💥
+☛ Reply that file to <b> /convert2video </b>
+    wait.. 🎼🎼🎼🎼
 """
 
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram <b>media/video</b> to convert"
